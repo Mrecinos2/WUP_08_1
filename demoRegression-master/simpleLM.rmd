@@ -70,6 +70,8 @@ summary of all the plots
 
 For Neck- The rse for this graph was 43.91 while the Adjusted R-squared was 0.87.
 
+For Length- The rse fot this graph was 61.83 while the Adjusted R-squared was 0.7423
+
 For Headlen- The rse fot this graph was 67.81 while the Adjusted R-squared was 0.69
 
 For Headwth- The rse fot this graph was 76.41 while the Adjusted R-squared was 0.6064.
