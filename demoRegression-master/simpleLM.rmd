@@ -43,4 +43,4 @@ summary of all the plots
 
 For Neck- The rse for this graph was 43.91 while the Adjusted R-squared was 0.87.
 
-
+For Age- The rse fot this graph was 81.47 while the Adjusted R-squared was 0.5526.
